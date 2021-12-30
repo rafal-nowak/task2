@@ -1,0 +1,6 @@
+2021-12-30 12:34:15.717276;should_compare_empty_string_and_null_string;False
+2021-12-30 12:34:15.717286;should_compare_two_different_strings;True
+2021-12-30 12:34:15.717288;should_compare_two_empty_strings;False
+2021-12-30 12:34:15.717289;should_compare_two_identical_strings;False
+2021-12-30 12:34:15.717291;should_compare_two_null_strings;False
+2021-12-30 12:34:15.717292;should_compare_two_strings_where_one_is_null;True
